@@ -1,4 +1,4 @@
-v2.3.1
+v2.3.1 12th September 2026
 
 + Nick Search module (finds certain nicks in pre-game lobbies)
 + Tracker module (tracks what a player with status API on is doing)
@@ -21,7 +21,7 @@ v2.3.1
 
 
 
-v2.3.0
+v2.3.0 30th August 2026
 
 + Tab List module
 + Bedwars Generator Countdown timers
@@ -52,7 +52,7 @@ v2.3.0
 
 
 
-v2.2.4
+v2.2.4 26th September 2026
 
 + Shop Pierce module
 + Bedwars Overlay Tab Stats
@@ -63,7 +63,7 @@ v2.2.4
 
 
 
-v2.2.3
+v2.2.3 23rd September 2026
 
 + Array List scaling with slider
 + Renamed "visuals" to "chaztils gui"
@@ -87,7 +87,7 @@ v2.2.3
 
 
 
-v2.2.2
+v2.2.2 21st September 2026
 
 + Freelook module (still in development)
 + Colour wheel for ESP & BedESP
@@ -107,7 +107,7 @@ v2.2.2
 
 
 
-v2.2.1
+v2.2.1 20th September 2026
 
 + Expanded / Compact module layout
 + Legit Modules & Cheat Modules are now seperated
