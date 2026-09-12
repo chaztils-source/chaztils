@@ -1,0 +1,121 @@
+v2.3.1
+
++ Nick Search module (finds certain nicks in pre-game lobbies)
++ Tracker module (tracks what a player with status API on is doing)
++ Re-added Freelook module
++ /chaztils help Command
++ Ability to toggle modules with chat commands
++ Ability to set API keys with chat commands
++ Changed client to disable cheat modules if "show cheat modules" is set to disabled
++ Option to change the number color for party tracker
++ Added a 600ms cooldown for clicks in diamond shops to prevent being throttled by the server
+/ Fixed BedTracker not disabling after your bed was destroyed
+/ Fixed Bedwars Overlay sometimes displaying a players Final Kills as their FKDR
+/ Fixed Item Alerts "ignore teammates" option still tracking teammates after your final death
+/ Fixed Generator Timers not fully updating to the correct countdowns
+/ Fixed chaztils GUI keybind sometimes double pressing when attempting to open the GUI
+/ Swapped the C & # from cheat modules and the chaztils GUI tabs
+/ Renamed chaztils gui tab section to chaztils
+/ Fixed MDI icons not rendering in tab list overlay
+/ Fixed Party Tracker
+
+
+
+v2.3.0
+
++ Tab List module
++ Bedwars Generator Countdown timers
++ Custom footer for tab list
++ Option to choose between chaztils font and minecrafts font for tab list
++ Cleaner animation for array list
++ Binded modules now have an animation for array list
++ Urchin will still check for tags even if your Hypixel API Key is invalid
++ Instructions on how to work columns for tab stats in Bedwars Overlay
++ Hide Brackets option for Urchin Tags in Tab Stats
++ Hide Brackets/Stars option for Stars in Tab Stats
++ Hid "ignore teammates" behind Chat Alerts option
+/ Changed the Generator Timers colors to match their items
+/ Moved Auto Who setting in Bedwars Overlay
+/ Fixed Star column spilling
+/ Fixed Bedwars in-game Stats not resetting after game end
+/ Fixed custom tab list causing crashes when held for too long on lower end devices
+/ Fixed the chaztils GUI causing framerate issues on lower end devices
+/ Fixed not being able to have multiple modules binded to the same key
+/ Fixed module toggling when closing GUIs after pressing its keybind
+/ Fixed hitboxes for selected/available columns inside Bedwars Overlay
+/ Fixed chat stats not showing team color & prefix correctly
+- Removed a forgotten developer tool in Shop Pierce
+- Removed Fast Place module
+- Removed the ability to open tab list while GUIs were active
+- Removed a double chat message when using /overlay check
+- Removed Freelook module
+
+
+
+v2.2.4
+
++ Shop Pierce module
++ Bedwars Overlay Tab Stats
++ Dynamic & Static color for columns
++ Custom Tab List
++ Star Formatting & Coloring up to 3000 Stars
+/ Minor GUI Updates
+
+
+
+v2.2.3
+
++ Array List scaling with slider
++ Renamed "visuals" to "chaztils gui"
++ Renamed "modules" to "cheat modules"
++ Renamed "legit" to "legit modules"
++ Added an option to hide legit modules under gui module
++ Automatically hides all modules in chaztils gui from array list
++ Added "ignore teammates" option to Item Alerts
++ Added "ignore teammates" option to Bedwars Overlay
+/ Fixed Bedwars Overlay not showing FKDR correctly
+/ Fixed Bedwars Overlay not alerting for urchin tags or when above threshold
+/ Fixed ItemESP not grouping items correctly
+/ Fixed ItemESP not displaying count properly
+/ Fixed BedTrackers "ignore teammates" option
+/ Fixed ESP outlines not drawing smoothly
+/ Fixed BedESP outlines not drawing smoothly
+/ Fixed ESP & BedESP rendering above GUIs
+/ Fixed Array List & Notifications render above GUIs
+- Removed "Hide Visuals" setting for array list
+- Removed "Anti Cheat" module
+
+
+
+v2.2.2
+
++ Freelook module (still in development)
++ Colour wheel for ESP & BedESP
++ Obsidian detection for BedESP
++ Animation types (smooth & snappy)
++ Visual module tab
++ "Hide Visuals" setting for array list
++ Ability to close GUI with the GUI keybind
+- Developer mode
+/ Fixed Stay Time slider staying active in notifications despite chat mode being selected
+/ Fixed random gaps and spacing issues with modules settings
+/ Fixed camera sometimes flicking when opening GUI
+/ Changed beta tag to orange and created a red "unsafe" tag
+/ Moved Settings tab to GUI module inside Visual tab
+/ Moved Array List to Visual tab
+/ Moved Notifications to Visual tab
+
+
+
+v2.2.1
+
++ Expanded / Compact module layout
++ Legit Modules & Cheat Modules are now seperated
++ Ability to combine Legit & Cheat Modules or keep them seperated
++ Ability to CTRL + Backspace in input fields
+/ Fixed not being able to hotkey your hotbar slots in GUIs
+/ Renamed "dark red" theme to "default"
+/ Set bedwars overlay, anti cheat, bed esp, bed tracker, esp and party tracker modules as beta modules
+/ Changed the way adding hidden modules to array list work to be more user friendly
+/ Fixed a major FPS issue caused by the Array List and GUI
+/ Made the GUI more visually appealing & consistent in sizing
