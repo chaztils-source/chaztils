@@ -1,1 +1,5 @@
-Text Here
+chaztils v2.3.1 brings a completely redesigned launcher, along with three new modules: Freelook, Nick Search, and Tracker.
+
+Freelook — Look around freely without moving your players camera.
+Nick Search — When joining a Bedwars Queue, the module will automically attempt to "/block add" nicks set by you to check if they are in that server instance.
+Tracker — Use a Hypixel API key to track the actions and server changes of any player with their API status turned on.
