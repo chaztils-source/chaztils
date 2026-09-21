@@ -1,5 +1,5 @@
-chaztils v2.3.1 brings a completely redesigned launcher, along with three new modules: Freelook, Nick Search, and Tracker.
+chaztils v2.3.2 brings a completely unique module: Quick Maths & beta support for Lunar Client users
 
-Freelook — Look around freely without moving your players camera.
-Nick Search — When joining a Bedwars Queue, the module will automically attempt to "/block add" nicks set by you to check if they are in that server instance.
-Tracker — Use a Hypixel API key to track the actions and server changes of any player with their API status turned on.
+Quick Maths Module — Automatically calculates the equation and selects the correct answer with a delay set by the user.
+Beta Lunar Support - Very early development stage of Lunar Client support, while most modules are unfunctional, some do work with the current mappings.
+Multiple Quality of Life bug fixes and Quality of Life options added to smooth your playing experience.
