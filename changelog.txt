@@ -1,3 +1,20 @@
+v2.3.2 21st September 2026
+
++ Beta Lunar Client support
++ Quick Maths Bedwars Challenge module
++ Chat command "/chaztils stats <username>" to check the stats/urchin tags of any player
++ In-game option for item alerts
++ Important item anti-spam option for item alerts
++ Added the option to add a keybind to Nick Search to manually begin the search
+/ Renamed "Block Zapper" item alert to just "Zapper" to account for Block & Bridge zappers
+/ Fixed Generator Timers not appearing after Emerald III
+/ Fixed Confirmed Cheater MDI icon not appearing in Tab Stats
+/ Added a cooldown of 2 seconds after /who being read before printing chat stats
+/ Fixed tab stats waiting for ping to return before display player stats
+/ Fixed caution tags returning "TAG" instead of "C" due to a spelling error
+/ Fixed issue with nick search not display outcome properly
+/ Fixed a formatting issue with Nick Search where it would wait to unblock players before searching the rest of the list
+
 v2.3.1 12th September 2026
 
 + Nick Search module (finds certain nicks in pre-game lobbies)
