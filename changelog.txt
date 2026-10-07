@@ -1,3 +1,32 @@
+v2.4.0 7th October 2026
+
++ Nick Hider module
++ Bingo module
++ Custom tab list now renders players skins/heads
++ Line separator option for tab list module
++ Bedwars Overlay module now displays blacklist tags even if Hypixel API key is invalid
++ Heavy optimisations
++ Hypixel API Key timer until key expires for Bedwars Overlay module
++ Ability to highlight text in text input boxes
++ Custom "FINAL KILL!" editing in chat module
++ Custom "BED DESTRUCTION >" editing in chat module
++ Compress Shop Purchase messages with new formatting
++ Caching to Bedwars Overlay module so it doesnt need to call the API as much
++ Option to make Nick Search automatically search at queue full
++ Option for Party Tracker to announce amount of suspected parties in the queue
++ Ability to hide Hypixel "Clutter" messages
++ Ability to hide Quick Maths title & output
++ Ability to alert 10 seconds before game start when a challenge is active
+/ Made the custom tab gui slightly smaller
+/ Fixed keybinds working while game is minimised
+/ Fixed Quick Maths challenge causing a fail if respawning when answering
+/ Fixed Nick Search not hiding hypixel output messages
+/ Moved Freelook module to legit section
+/ Fixed dynamic color sometimes not working for HP in Bedwars Overlay tab stats
+/ Changed the Party Tracker color selector to be more user friendly
+- Removed ability to toggle cheat modules if cheat modules were disabled
+- Removed some obsolete settings from tab list module
+
 v2.3.2 21st September 2026
 
 + Beta Lunar Client support

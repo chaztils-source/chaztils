@@ -1,5 +1,13 @@
-chaztils v2.3.2 brings a completely unique module: Quick Maths & beta support for Lunar Client users
+chaztils v2.4.0 brings new modules, more customisation, and major performance improvements to your gameplay!
 
-Quick Maths Module — Automatically calculates the equation and selects the correct answer with a delay set by the user.
-Beta Lunar Support - Very early development stage of Lunar Client support, while most modules are unfunctional, some do work with the current mappings.
-Multiple Quality of Life bug fixes and Quality of Life options added to smooth your playing experience.
+New Modules — Introducing Nick Hider and Bingo.
+
+Custom Tab List Improvements — Player skins and heads now render in the tab list, with a new line separator option and a more compact layout.
+
+Bedwars Overlay Upgrades — Blacklist tags now display even with an invalid Hypixel API key, a new timer tracks when your key expires, and caching reduces API calls.
+
+More Chat Customisation — Edit “FINAL KILL!” and “BED DESTRUCTION >” messages, compress shop purchase messages with new formatting, and hide Hypixel clutter.
+
+Smarter Queue Tools — Nick Search can automatically search when the queue fills, and Party Tracker can announce the number of suspected parties.
+
+Quality of Life & Bug Fixes — Highlight text in input boxes, hide Quick Maths titles and output, and receive an alert 10 seconds before a game starts when a challenge is active. Heavy optimisations and fixes across Quick Maths, Nick Search, keybinds, and overlay colours help smooth your playing experience.
